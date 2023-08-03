@@ -1,0 +1,83 @@
+body{
+    background-image: url('https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png');
+    text-align:center ;
+}
+header{
+    background-image: url('https://th.bing.com/th/id/R.e774d27e1da7001ad5e710db82e41fe5?rik=UEP4GnQL7HFA%2fQ&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fe%2f7%2f7%2f4%2f1407329970676378152radiant+background+mix.png&ehk=l88UowgZxlLHNBCK9vm2e9mnC3wsk95A90TTZ2%2bfRs8%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    color: rgb(102, 32, 102);
+    height: 100px;
+    padding: 10px;
+
+}
+ul li{
+    display: inline;
+    color: black;
+    padding: 20px;
+}
+ul li a{
+    color: rgb(146, 4, 4);
+    text-decoration: none;
+    font-weight: bolder;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#home{
+    display: inline;
+    padding: 10px;
+    color: peachpuff;
+
+}
+#home h2{
+    word-spacing: 10px;
+}
+#home p{
+    color: peachpuff;
+    word-spacing: 20px;
+
+}
+#portfolio{
+    background-image: url('https://images.hdqwalls.com/download/abstract-mix-colors-wide-1920x1080.jpg');
+    background-size: cover;
+    padding:150px;
+    color: peachpuff;
+    word-spacing: 10px;
+
+}
+#portfolio h2{
+    font-size: 1cm;
+    color: peachpuff;
+   
+
+}
+footer{
+    background-color: rgb(210, 72, 91);
+    padding: 25px;
+}
+#skills{
+    background-image: url('https://wallpapercave.com/wp/wp4053737.png');
+    background-size: cover;
+    padding: 100px;
+       
+}
+#skills h1{
+    font-size: 1cm;
+    text-decoration: underline;
+    color: blanchedalmond;
+    margin-bottom: 400px;
+}
+#skills ul li{
+    color: burlywood;
+    font-size: large;
+    
+    
+}
+#bio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: peachpuff;
+    
+}
